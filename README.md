@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-using-html-css-javascript-flexbox-media-query-jmqBqqgr1]
 - Live Site URL: [https://genesisgran.github.io/faq-accordion-card/]
 
 ## Built with
